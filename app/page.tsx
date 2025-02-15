@@ -72,9 +72,9 @@ export default function BatteryCalculator() {
           )}
         </CardContent>
       </Card>
-      <a href="https://beacons.ai/byeolsatang" target="_blank" rel="noopener noreferrer">
+      <p className="text-center"><a href="https://beacons.ai/byeolsatang" target="_blank" rel="noopener noreferrer">
       Created by Kira.
-      </a>
+      </a></p>
     </div>
   )
 }
